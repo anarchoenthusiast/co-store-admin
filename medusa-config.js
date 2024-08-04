@@ -31,7 +31,8 @@ const STORE_CORS = process.env.STORE_CORS || "http://localhost:8000";
 const DATABASE_URL =
   process.env.DATABASE_URL || "postgres://localhost/medusa-starter-default";
 
-const REDIS_URL = process.env.REDIS_URL || "redis://localhost:6379";
+const REDIS_URL =
+  process.env.REDIS_URL || "redis://localhost:6379,redis://localhost:24479";
 
 const plugins = [
   `medusa-fulfillment-manual`,

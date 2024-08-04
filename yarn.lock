@@ -9316,7 +9316,7 @@ medusa-payment-manual@1.0.25:
   resolved "https://registry.npmjs.org/medusa-payment-manual/-/medusa-payment-manual-1.0.25.tgz"
   integrity sha512-TMwAcI9MU3kDbBaY2WydurG2Y3ZCB+MGiRpGiGkhrvPLyzQ2qPAL13sb8cWXyuLWRdyHB1INGSh+WN26z4SHNw==
 
-medusa-payment-stripe@6.0.10:
+medusa-payment-stripe@^6.0.10:
   version "6.0.10"
   resolved "https://registry.npmjs.org/medusa-payment-stripe/-/medusa-payment-stripe-6.0.10.tgz"
   integrity sha512-Erx492fUcjiIXqObpJm65VVvUaK3O5jXHzh4MQfQb/vZmuRfoBunaSfM2z/xVfYS7mWW8fnban5A2NdaF8QIkw==
